@@ -7,11 +7,11 @@ cabecalho {
 body {
     background-color: yellow;
     color: black;
-    font-size: 80%;
+    font-size: 100%;
 }
 
 footer {
     background-color: black;
     color: white;
-    font-size: 100%;
+    font-size: 130%;
 }

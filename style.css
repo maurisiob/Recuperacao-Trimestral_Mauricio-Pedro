@@ -1,17 +1,17 @@
 cabecalho {
     background-color: black;
     color: white;
-    font-size: 80%;
+    font-size: 100%;
 }
 
 body {
     background-color: yellow;
     color: black;
-    font-size: 70%;
+    font-size: 80%;
 }
 
 footer {
     background-color: black;
     color: white;
-    font-size: 80%;
+    font-size: 100%;
 }

@@ -1,0 +1,17 @@
+cabecalho {
+    background-color: black;
+    color: white;
+    font-size: 50%;
+}
+
+body {
+    background-color: yellow;
+    color: black;
+    font-size: 40%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 50%;
+}
